@@ -9,7 +9,7 @@
 ## Usuarios
 ![Usuarios](/images/Usuarios.png)
 ## Canciones
-![Canciones](/images/Canciones.png)
+![Canciones](/images/canciones.png)
 ## Mapa de calor
 ![Mapa de calor](/images/mapa.png)
 ## Reproductor
