@@ -8,4 +8,4 @@
 ## El proyecto es un pipeline ETL de una base de datos con informacion historica de peliculas populares, que fue tomado de la siguiente fuente de datos abierta:
 ## https://www.databasestar.com/sample-database-movies/ para motivos academicos, anexo el diagrama relacional de la base de datos original.
 
-![Diagrama relacional](/images/diagrama relacional.png)
+![Diagrama](/images/diagrama_relacional.png)
