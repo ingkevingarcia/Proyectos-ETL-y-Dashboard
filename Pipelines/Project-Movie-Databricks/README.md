@@ -1,16 +1,11 @@
 
-# Proyecto reporte Spotify
+# Proyecto movie history con databricks
 
  
 
 
-## Portada
-![Portada](/images/Portada.png)
-## Usuarios
-![Usuarios](/images/Usuarios.png)
-## Canciones
-![Canciones](/images/canciones.png)
-## Mapa de calor
-![Mapa de calor](/images/mapa.png)
-## Reproductor
-![Reproductor cancion top 1](/images/Reproductor.png)
+## El siguiente proyecto es un proyecto de ingenieria de datos que fue realizado con la nube de Azure y Databricks.
+## El proyecto es un pipeline ETL de una base de datos con informacion historica de peliculas populares, que fue tomado de la siguiente fuente de datos abierta:
+## https://www.databasestar.com/sample-database-movies/ para motivos academicos, anexo el diagrama relacional de la base de datos original.
+
+![Diagrama relacional](/images/diagrama relacional.png)
